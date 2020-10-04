@@ -1,4 +1,4 @@
-# Introduction-to-Game-Development-Coursera-course- Uni
+# Introduction-to-Game-Development-Coursera-course- Unit
 These are the peer graded assignments :
 
 week 2(Solar System)
