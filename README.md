@@ -1,4 +1,4 @@
-# Introduction-to-Game-Development-Coursera-course- Unity 2D
+# Introduction-to-Game-Development-Coursera-course- Unity 2D/
 These are the peer graded assignments :
 
 week 2(Solar System)
