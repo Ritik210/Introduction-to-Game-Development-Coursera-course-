@@ -1,5 +1,5 @@
 # Introduction-to-Game-Development-Coursera-course- Unity 2D/3D
-These are the pee graded assignments of this course :
+These are the p graded assignments of this course :
 
 week 2(Solar System)
 
