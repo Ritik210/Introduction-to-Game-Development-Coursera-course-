@@ -1,5 +1,5 @@
 # Introduction-to-Game-Development-Coursera-course- Unity 2D/3D
-These are peer graded assignments of this course :
+These are 3 peer graded assignments of this course :
 
 week 2(Solar System)
 
